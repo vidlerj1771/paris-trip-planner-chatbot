@@ -16,6 +16,7 @@ Technologies Used
 How it works
 
 The project sends user prompts to an OpenAI model through the API. The model interprets the user's requirements and generates relevant responses based on the information provided.
+
 Users can ask the chatbot about things such as:
 - Places to visit
 - Restaurants
