@@ -6,10 +6,6 @@ This project uses the OpenAI API and generative AI to create an interactive chat
 
 The chatbot provides personalised suggestions for attractions, restaurants and activities and can use the user's requirements to help create a potential itinerary.
 
-Example Output
-
-<img width="1536" height="439" alt="paris_trip_planner_example_output(1)" src="https://github.com/user-attachments/assets/4f106b52-0f60-4014-9e9f-8fc338843411" />
-
 Technologies Used
 - Python
 - OpenAI API
@@ -53,4 +49,7 @@ The notebook contains the code and steps required to reproduce the project.
 Project Outcome
 
 This project demonstrates how the OpenAI API and generative AI can be integrated with Python to build an interactive chatbot capable of understanding user requirements and generating personalised responses.
+
+<img width="1536" height="439" alt="paris_trip_planner_example_output(1)" src="https://github.com/user-attachments/assets/4f106b52-0f60-4014-9e9f-8fc338843411" />
+
 
